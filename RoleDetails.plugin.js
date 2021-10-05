@@ -21,7 +21,6 @@ const config = {
         description: "Allows you to easily see all the details of a role and be able to copy them",
     },
 };
-
 module.exports = !global.ZeresPluginLibrary ? class {
     constructor() { this._config = config; }
     getName() { return config.info.name; }
