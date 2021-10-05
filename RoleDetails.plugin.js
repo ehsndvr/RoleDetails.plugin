@@ -6,8 +6,8 @@
  * @invite xfvHwqXXKs
  * @authorLink https://instagram.com/ehsndvr
  * @website https://www.beheshtmarket.com
- * @source https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/PermissionsViewer/PermissionsViewer.plugin.js
- * @updateUrl https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/PermissionsViewer/PermissionsViewer.plugin.js
+ * @source https://github.com/iamehsandvr/RoleDetails.plugin/blob/e1c918f8107dd9c59a853a7f7421f9a493073c3b/RoleDetails.plugin.js
+ * @updateUrl https://github.com/iamehsandvr/RoleDetails.plugin/blob/e1c918f8107dd9c59a853a7f7421f9a493073c3b/RoleDetails.plugin.js
 */
 const config = {
     info: {
